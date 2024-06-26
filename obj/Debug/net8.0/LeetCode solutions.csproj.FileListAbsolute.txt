@@ -1,0 +1,15 @@
+C:\Users\arkh9\Desktop\leet code C#\Solution 2\CS-LeetCode\obj\Debug\net8.0\LeetCode solutions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arkh9\Desktop\leet code C#\Solution 2\CS-LeetCode\obj\Debug\net8.0\LeetCode solutions.AssemblyInfoInputs.cache
+C:\Users\arkh9\Desktop\leet code C#\Solution 2\CS-LeetCode\obj\Debug\net8.0\LeetCode solutions.AssemblyInfo.cs
+C:\Users\arkh9\Desktop\leet code C#\Solution 2\CS-LeetCode\obj\Debug\net8.0\LeetCode solutions.csproj.CoreCompileInputs.cache
+C:\Users\arkh9\Desktop\leet code C#\Solution 2\CS-LeetCode\obj\Debug\net8.0\LeetCode solutions.sourcelink.json
+C:\Users\arkh9\Desktop\leet code C#\Solution 2\CS-LeetCode\bin\Debug\net8.0\LeetCode solutions.exe
+C:\Users\arkh9\Desktop\leet code C#\Solution 2\CS-LeetCode\bin\Debug\net8.0\LeetCode solutions.deps.json
+C:\Users\arkh9\Desktop\leet code C#\Solution 2\CS-LeetCode\bin\Debug\net8.0\LeetCode solutions.runtimeconfig.json
+C:\Users\arkh9\Desktop\leet code C#\Solution 2\CS-LeetCode\bin\Debug\net8.0\LeetCode solutions.dll
+C:\Users\arkh9\Desktop\leet code C#\Solution 2\CS-LeetCode\bin\Debug\net8.0\LeetCode solutions.pdb
+C:\Users\arkh9\Desktop\leet code C#\Solution 2\CS-LeetCode\obj\Debug\net8.0\LeetCode solutions.dll
+C:\Users\arkh9\Desktop\leet code C#\Solution 2\CS-LeetCode\obj\Debug\net8.0\refint\LeetCode solutions.dll
+C:\Users\arkh9\Desktop\leet code C#\Solution 2\CS-LeetCode\obj\Debug\net8.0\LeetCode solutions.pdb
+C:\Users\arkh9\Desktop\leet code C#\Solution 2\CS-LeetCode\obj\Debug\net8.0\LeetCode solutions.genruntimeconfig.cache
+C:\Users\arkh9\Desktop\leet code C#\Solution 2\CS-LeetCode\obj\Debug\net8.0\ref\LeetCode solutions.dll
