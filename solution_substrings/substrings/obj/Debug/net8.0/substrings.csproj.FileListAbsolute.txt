@@ -1,0 +1,15 @@
+C:\Users\arkh9\CS-LeetCode\solution_substrings\substrings\bin\Debug\net8.0\substrings.exe
+C:\Users\arkh9\CS-LeetCode\solution_substrings\substrings\bin\Debug\net8.0\substrings.deps.json
+C:\Users\arkh9\CS-LeetCode\solution_substrings\substrings\bin\Debug\net8.0\substrings.runtimeconfig.json
+C:\Users\arkh9\CS-LeetCode\solution_substrings\substrings\bin\Debug\net8.0\substrings.dll
+C:\Users\arkh9\CS-LeetCode\solution_substrings\substrings\bin\Debug\net8.0\substrings.pdb
+C:\Users\arkh9\CS-LeetCode\solution_substrings\substrings\obj\Debug\net8.0\substrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arkh9\CS-LeetCode\solution_substrings\substrings\obj\Debug\net8.0\substrings.AssemblyInfoInputs.cache
+C:\Users\arkh9\CS-LeetCode\solution_substrings\substrings\obj\Debug\net8.0\substrings.AssemblyInfo.cs
+C:\Users\arkh9\CS-LeetCode\solution_substrings\substrings\obj\Debug\net8.0\substrings.csproj.CoreCompileInputs.cache
+C:\Users\arkh9\CS-LeetCode\solution_substrings\substrings\obj\Debug\net8.0\substrings.sourcelink.json
+C:\Users\arkh9\CS-LeetCode\solution_substrings\substrings\obj\Debug\net8.0\substrings.dll
+C:\Users\arkh9\CS-LeetCode\solution_substrings\substrings\obj\Debug\net8.0\refint\substrings.dll
+C:\Users\arkh9\CS-LeetCode\solution_substrings\substrings\obj\Debug\net8.0\substrings.pdb
+C:\Users\arkh9\CS-LeetCode\solution_substrings\substrings\obj\Debug\net8.0\substrings.genruntimeconfig.cache
+C:\Users\arkh9\CS-LeetCode\solution_substrings\substrings\obj\Debug\net8.0\ref\substrings.dll
